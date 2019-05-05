@@ -1,1 +1,1 @@
-worker: python TotallyHuman.py
+worker: python bot.py
